@@ -1,0 +1,14 @@
+.sidebar {
+  left: auto;
+  right: 0;
+}
+
+.sidebar .nav-link .feather {
+  margin-left: 4px;
+  margin-right: 0;
+}
+
+.navbar .navbar-toggler {
+  right: auto;
+  left: 1rem;
+}
